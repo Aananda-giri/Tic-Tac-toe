@@ -1,2 +1,5 @@
 # Tic-Tac-toe
-Tic tac toe that you can play with computer and two player mode.
+Tic tac toe with:
+    
+    1. Play with computer mode
+    2. two player mode.

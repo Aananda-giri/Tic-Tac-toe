@@ -21,3 +21,6 @@ Tic tac toe with:
  - But wait, victory for player is defeat for opponent [i.e. winning_moves=loosing moves], and we can cut off draw_data [roughly another one_third->40,320]
  - Still alot of data to process and definitely implementation would be tidious
 
+## Resource:
+- https://www.wikihow.com/Win-at-Tic-Tac-Toe
+- 

@@ -421,7 +421,7 @@ Cases:
 		switch(i){
 			case(1):{
 			printf("\n\n\t\t1. always start with a corner.\n\t");getch();
-					 printf("\t\tIf opponent makes any move except center victory os yours.\n\n\tFor example:\n");getch();
+					 printf("\t\tIf opponent makes any move except center victory is yours.\n\n\tFor example:\n");getch();
 					 helpdata1(1);getch();helpdata1(2);getch();helpdata1(3);getch();
 					printf("\t\tIf opponent makes second move in center,There is still hope \n\n\tFor example:\n");getch();
 					helpdata1(4);getch();i=2;goto Cases;

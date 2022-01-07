@@ -13,7 +13,7 @@ Tic tac toe with:
  - and if above conditions not the case we can make a random move on the board
 
 
-##Initial idea (not_implemented)
+## Initial idea (not_implemented)
  - The initial idea was to store all possible moves in array (db1) and then compare current board positioins with database and selsct the winning or draw data (avoiding loosing data) from among datas that matches current board configurations.
  
  - Also tic_tac_toe board is symmmetrical [i.e. there are only 3 unique positions to begin with] i.e. only three positions to start with (from among 9 positioins) i.e. we can reduce database size by 1/3.

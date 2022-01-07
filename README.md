@@ -24,3 +24,10 @@ Tic tac toe with:
 ## Resource:
 - https://www.wikihow.com/Win-at-Tic-Tac-Toe
 - 
+
+## To_learn:
+- https://gist.github.com/MatthewSteel/3158579
+
+## To_do:
+- neat code
+- improve how to play 
